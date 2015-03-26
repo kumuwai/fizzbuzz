@@ -1,3 +1,8 @@
+---
+title: License
+layout: page
+---
+
 # Released under MIT License
 
 Copyright (c) 2015 Joel Hatch.
