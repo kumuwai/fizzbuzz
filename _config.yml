@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            FizzBuzz
 tagline:          'A version of the classic fizzbuzz kata'
-description:      'A very simple practice Laravel 5 package to learn techniques of creating and testing a package that will work with Laravel 5. It also includes connections to continuous-integration tools, and can work as a prototype for new packages.'
+description:      'A practice Laravel 5 package with tests and Continuous Integration'
 url:              http://kumuwai.github.io/fizzbuzz
 baseurl:          /fizzbuzz/
 
