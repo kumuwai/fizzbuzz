@@ -1,3 +1,8 @@
+---
+layout: post
+title: Introducing FizzBuzz
+---
+
 FizzBuzz
 ========
 [![Build Status](https://img.shields.io/travis/kumuwai/fizzbuzz/master.svg)](https://travis-ci.org/kumuwai/fizzbuzz)
