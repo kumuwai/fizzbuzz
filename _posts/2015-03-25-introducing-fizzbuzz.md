@@ -6,10 +6,10 @@ title: Introducing FizzBuzz
 FizzBuzz
 ========
 <p class="badge">
-[![Build Status](https://img.shields.io/travis/kumuwai/fizzbuzz/master.svg)](https://travis-ci.org/kumuwai/fizzbuzz) 
-[![Coverage Status](https://coveralls.io/repos/kumuwai/fizzbuzz/badge.svg)](https://coveralls.io/r/kumuwai/fizzbuzz) 
-[![Quality Score](https://img.shields.io/scrutinizer/g/kumuwai/fizzbuzz.svg)](https://scrutinizer-ci.com/g/kumuwai/fizzbuzz) 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
+<a href="https://travis-ci.org/kumuwai/fizzbuzz"><img src="https://img.shields.io/travis/kumuwai/fizzbuzz/master.svg"></a> 
+<a href="https://coveralls.io/r/kumuwai/fizzbuzz"><img src="https://coveralls.io/repos/kumuwai/fizzbuzz/badge.svg"></a> 
+<a href="https://scrutinizer-ci.com/g/kumuwai/fizzbuzz"><img src="https://img.shields.io/scrutinizer/g/kumuwai/fizzbuzz.svg"></a> 
+<a href="LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>'
 </p>
 
 This is a version of the classic fizzbuzz kata:
